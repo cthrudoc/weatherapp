@@ -1,0 +1,54 @@
+Surowe : 
+
+{"coord":{"lon":23,"lat":51},"weather":[{"id":804,"main":"Clouds","description":"zachmurzenie duże","icon":"04n"}],
+"base":"stations","main":{"temp":15.17,"feels_like":14.81,"temp_min":13.71,"temp_max":15.77,"pressure":1002,"humidity":79},
+"visibility":10000,"wind":{"speed":4.47,"deg":242,"gust":23.69},"clouds":{"all":100},"dt":1713117161,
+"sys":{"type":2,"id":2089711,"country":"PL","sunrise":1713065675,"sunset":1713115284},"timezone":7200,"id":858785,
+"name":"Województwo lubelskie","cod":200}
+
+Rozłożone : 
+
+{
+  "coord": {
+    "lon": 23,
+    "lat": 51
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "zachmurzenie duże",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.17,
+    "feels_like": 14.81,
+    "temp_min": 13.71,
+    "temp_max": 15.77,
+    "pressure": 1002,
+    "humidity": 79
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.47,
+    "deg": 242,
+    "gust": 23.69
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1713117161,
+  "sys": {
+    "type": 2,
+    "id": 2089711,
+    "country": "PL",
+    "sunrise": 1713065675,
+    "sunset": 1713115284
+  },
+  "timezone": 7200,
+  "id": 858785,
+  "name": "Województwo lubelskie",
+  "cod": 200
+}
